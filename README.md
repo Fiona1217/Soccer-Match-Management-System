@@ -1,6 +1,7 @@
 # ⚽ Soccer Match Management System
 
-A comprehensive database system for managing soccer teams, players, matches, and results with advanced SQL queries and views.
+A comprehensive database system for managing soccer teams, players, matches, and results with advanced SQL queries and views.<br />
+***Developed by**: Fiona Ang, Smriti Kohli, Christopher O'connell*
 
 ## 💡 Learning Outcomes
 This project demonstrates:
